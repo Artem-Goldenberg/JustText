@@ -85,7 +85,7 @@ important to understand how this library works.
 - ``JTSepProducerExtractor``
 - ``JTPlainSepExtractor``
 
-### Internal Map Support
+### Internal Map Support
 
 - ``JTCommonMap``
 - ``JTRealMap``
